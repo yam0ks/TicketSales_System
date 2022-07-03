@@ -7,7 +7,7 @@ The database has many different triggers, procedures and transactions, due to wh
 adding new flights and routes are automated.
 
 ### ER Diagram
-<img src="https://user-images.githubusercontent.com/78639838/177050151-23e24622-7214-44f5-b5e0-80e90799213a.png"/>
+<img src="https://user-images.githubusercontent.com/78639838/177051861-77b8db16-85cd-4c0e-b85f-8be779e79bc1.png"/>
 
 ## Examples:eyes:
 ### Client view
